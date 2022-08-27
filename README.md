@@ -31,9 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgulser&" alt="cgulser" /></p>
 
 
-
 ![snake gif](https://github.com/cgulser/cgulser/blob/output/github-contribution-grid-snake.gif)
-
-
-
 
