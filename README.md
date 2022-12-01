@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_720_1280/0/1530798575527?e=1666828800&v=beta&t=Q5Dmd4NWPz8RufmLY4z39MpFNVG7r1x4yI0Ra_OVtlY)](https://cgulser.io)
+[![MasterHead](https://www.shutterstock.com/tr/image-vector/software-web-development-programming-concept-abstract-1122339353)](https://cgulser.io)
 <h1 align="center">Hi 👋, I'm Cevdet Gülser</h1>
 <h3 align="center">Software QA Engineer from Germany</h3>
 
