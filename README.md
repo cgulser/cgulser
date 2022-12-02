@@ -1,4 +1,4 @@
-[![MasterHead]
+
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/tr/image-vector/software-web-development-programming-concept-abstract-1122339353">
 
 <h1 align="center">Hi 👋, I'm Cevdet Gülser</h1>
