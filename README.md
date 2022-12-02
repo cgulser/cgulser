@@ -1,5 +1,5 @@
 
- <img align="mittle" alt="Coding" width="400" src="https://www.shutterstock.com/tr/image-vector/software-web-development-programming-concept-abstract-1122339353"/> 
+<a <img align="mittle" alt="Coding" width="400" src="https://www.shutterstock.com/tr/image-vector/software-web-development-programming-concept-abstract-1122339353"> </a> 
 
 <h1 align="center">Hi 👋, I'm Cevdet Gülser</h1>
 <h3 align="center">Software QA Engineer from Germany</h3>
