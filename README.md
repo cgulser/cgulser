@@ -1,5 +1,8 @@
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> 
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Cevdet Gülser</h1>
 <h3 align="center">Software QA Engineer from Germany</h3>
@@ -13,7 +16,7 @@
 - 💬 Ask me about **Java, Selenium, Git-Github, SDLC, STLC, JDBC, SQL and Rest-Assured API**
 
 
-- 📫 How to reach me **c.gulser86@gmail.com**
+- 📬 How to reach me **c.gulser86@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
